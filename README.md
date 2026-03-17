@@ -1,5 +1,3 @@
-# crypto_dashboard
-A modern crypto dashboard with charts, metrics, and responsive UI.
 # Crypto Dashboard
 
 一个现代化的加密货币仪表盘，提供价格趋势、关键指标与市场概览的可视化展示。
